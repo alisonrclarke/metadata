@@ -1,0 +1,26 @@
+{
+	"ChartsProjects": {
+		"iOSObjectiveCProjects": [
+			"charts-legend-interactions",
+			"charts-tornado-chart"
+		],
+		"iOSCSharpProjects": [],
+		"AndroidProjects": []
+	},
+	"GridsProjects" : {
+		"iOSObjectiveCProjects": [
+			"grids-custom-checkbox"
+		],
+		"iOSCSharpProjects": [],
+		"AndroidProjects": []
+	},
+	"EssentialsProjects" : {
+		"iOSObjectiveCProjects": [
+			"essentials-working-with-tabs",
+			"essentials-sliding-overlay",
+			"essentials-multiflow"
+		],
+		"iOSCSharpProjects": [],
+		"AndroidProjects": []
+	}
+}
