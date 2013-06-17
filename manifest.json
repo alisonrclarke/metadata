@@ -3,7 +3,9 @@
 		"iOSObjectiveCProjects": [
 			"charts-legend-interactions",
 			"charts-tornado-chart",
-			"Shinobi-RangeSelector"
+			"Shinobi-RangeSelector",
+			"charts-custom-crosshair",
+			"charts-pie-chart-labels"
 		],
 		"iOSCSharpProjects": [],
 		"AndroidProjects": []
