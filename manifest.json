@@ -12,7 +12,8 @@
 	},
 	"GridsProjects" : {
 		"iOSObjectiveCProjects": [
-			"grids-custom-checkbox"
+			"grids-custom-checkbox",
+			"grids-todo-list"
 		],
 		"iOSCSharpProjects": [],
 		"AndroidProjects": []
