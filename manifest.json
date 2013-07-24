@@ -13,7 +13,8 @@
 	"GridsProjects" : {
 		"iOSObjectiveCProjects": [
 			"grids-custom-checkbox",
-			"grids-todo-list"
+            "grids-weather-app",
+            "grids-todo-list"
 		],
 		"iOSCSharpProjects": [],
 		"AndroidProjects": []
@@ -22,8 +23,12 @@
 		"iOSObjectiveCProjects": [
 			"essentials-working-with-tabs",
 			"essentials-sliding-overlay",
-			"essentials-multiflow"
-		],
+			"essentials-multiflow",
+            "essentials-shinobi-slots",
+            "essentials-carousel-path",
+            "essentials-bookshelf-accordion",
+            "essentials-double-sliding-overlay"
+        ],
 		"iOSCSharpProjects": [],
 		"AndroidProjects": []
 	}
