@@ -39,7 +39,7 @@
                 "essentials-carousel-path": ["carousel", "custom path"],
                 "essentials-bookshelf-accordion": ["accordion"],
                 "essentials-double-sliding-overlay": ["sliding overlay"]
-            ],
+            },
 		    "CSharpProjects": {}
 		},
 		"AndroidProjects": {
