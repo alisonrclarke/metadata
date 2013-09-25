@@ -1,50 +1,50 @@
 {
 	"ChartsProjects": {
 		"iOSProjects": {
-			"ObjectiveCProjects" : [
-				"charts-legend-interactions",
-				"charts-tornado-chart",
-				"Shinobi-RangeSelector",
-				"charts-custom-crosshair",
-				"charts-pie-chart-labels"
-		    ],
-		    "CSharpProjects": []
+			"ObjectiveCProjects" : {
+				"charts-legend-interactions" : ["legend", "pie chart"],
+				"charts-tornado-chart": ["tornado", "bar chart"],
+				"Shinobi-RangeSelector": ["annotation", "linked charts", "range"],
+				"charts-custom-crosshair": ["crosshair", "tooltip"],
+				"charts-pie-chart-labels": ["pie chart", "labels"]
+		    },
+		    "CSharpProjects": {}
 		},
 		"AndroidProjects": {
-		    "JavaProjects" : [],
-		    "CSharpProjects": []
+		    "JavaProjects" : {},
+		    "CSharpProjects": {}
 		}
 	},
 	"GridsProjects" : {
 		"iOSProjects": {
-			"ObjectiveCProjects" : [
-    			"grids-custom-checkbox",
-                "grids-weather-app",
-                "grids-todo-list"
-		    ],
-		    "CSharpProjects": []
+			"ObjectiveCProjects" : {
+    			"grids-custom-checkbox": ["checkbox"],
+                "grids-weather-app": ["SGridsDataSourceHelper", "custom cells"],
+                "grids-todo-list": []
+	    	},
+	    	"CSharpProjects": {}
 		},
 		"AndroidProjects": {
-		    "JavaProjects" : [],
-		    "CSharpProjects": []
+		    "JavaProjects" : {},
+		    "CSharpProjects": {}
 		}
 	},
 	"EssentialsProjects" : {
 		"iOSProjects": {
-			"ObjectiveCProjects" : [
-    			"essentials-working-with-tabs",
-    			"essentials-sliding-overlay",
-    			"essentials-multiflow",
-                "essentials-shinobi-slots",
-                "essentials-carousel-path",
-                "essentials-bookshelf-accordion",
-                "essentials-double-sliding-overlay"
+			"ObjectiveCProjects" : {
+    			"essentials-working-with-tabs": ["tabs"],
+    			"essentials-sliding-overlay": ["sliding overlay"],
+    			"essentials-multiflow": ["flow layout"],
+                "essentials-shinobi-slots": ["carousel"],
+                "essentials-carousel-path": ["carousel", "custom path"],
+                "essentials-bookshelf-accordion": ["accordion"],
+                "essentials-double-sliding-overlay": ["sliding overlay"]
             ],
-		    "CSharpProjects": []
+		    "CSharpProjects": {}
 		},
 		"AndroidProjects": {
-		    "JavaProjects" : [],
-		    "CSharpProjects": []
+		    "JavaProjects" : {},
+		    "CSharpProjects": {}
 		}
 	}
 }
