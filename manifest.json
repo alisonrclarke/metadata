@@ -6,9 +6,13 @@
 				"charts-tornado-chart": ["tornado", "bar chart"],
 				"Shinobi-RangeSelector": ["annotation", "linked charts", "range"],
 				"charts-custom-crosshair": ["crosshair", "tooltip"],
-				"charts-pie-chart-labels": ["pie chart", "labels"]
+				"charts-pie-chart-labels": ["pie chart", "labels"],
+				"charts-currency-charting": ["crosshair", "linked charts"]
 		    },
-		    "CSharpProjects": {}
+		    "CSharpProjects": {
+		    	"Charts-MvvmCross": ["MvvmCross"],
+		    	"GithubDashboard-Xamarin": ["dashboard"]
+		    }
 		},
 		"AndroidProjects": {
 		    "JavaProjects" : {},
@@ -20,7 +24,8 @@
 			"ObjectiveCProjects" : {
     			"grids-custom-checkbox": ["checkbox"],
                 "grids-weather-app": ["SGridsDataSourceHelper", "custom cells"],
-                "grids-todo-list": []
+                "grids-todo-list": [],
+                "grids-financial-data-grid": ["custom cells"]
 	    	},
 	    	"CSharpProjects": {}
 		},
