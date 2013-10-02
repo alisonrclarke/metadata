@@ -1,54 +1,54 @@
 {
-	"ChartsProjects": {
-		"iOSProjects": {
-			"ObjectiveCProjects" : {
-				"charts-legend-interactions" : ["legend", "pie chart"],
-				"charts-tornado-chart": ["tornado", "bar chart"],
-				"Shinobi-RangeSelector": ["annotation", "linked charts", "range"],
-				"charts-custom-crosshair": ["crosshair", "tooltip"],
-				"charts-pie-chart-labels": ["pie chart", "labels"],
-				"charts-currency-charting": ["crosshair", "linked charts"]
-		    },
-		    "CSharpProjects": {
-		    	"GithubDashboard-Xamarin": ["dashboard"]
-		    }
-		},
-		"AndroidProjects": {
-		    "JavaProjects" : {},
-		    "CSharpProjects": {}
-		}
-	},
-	"GridsProjects" : {
-		"iOSProjects": {
-			"ObjectiveCProjects" : {
-    			"grids-custom-checkbox": ["checkbox"],
+    "ChartsProjects": {
+        "iOSProjects": {
+            "ObjectiveCProjects" : {
+                "charts-legend-interactions" : ["legend", "pie chart"],
+                "charts-tornado-chart": ["tornado", "bar chart"],
+                "Shinobi-RangeSelector": ["annotation", "linked charts", "range"],
+                "charts-custom-crosshair": ["crosshair", "tooltip"],
+                "charts-pie-chart-labels": ["pie chart", "labels"],
+                "charts-currency-charting": ["crosshair", "linked charts"]
+            },
+            "CSharpProjects": {
+                "GithubDashboard-Xamarin": ["dashboard"]
+            }
+        },
+        "AndroidProjects": {
+            "JavaProjects" : {},
+            "CSharpProjects": {}
+        }
+    },
+    "GridsProjects" : {
+        "iOSProjects": {
+            "ObjectiveCProjects" : {
+                "grids-custom-checkbox": ["checkbox"],
                 "grids-weather-app": ["SGridsDataSourceHelper", "custom cells"],
                 "grids-todo-list": [],
                 "grids-financial-data-grid": ["custom cells"]
-	    	},
-	    	"CSharpProjects": {}
-		},
-		"AndroidProjects": {
-		    "JavaProjects" : {},
-		    "CSharpProjects": {}
-		}
-	},
-	"EssentialsProjects" : {
-		"iOSProjects": {
-			"ObjectiveCProjects" : {
-    			"essentials-working-with-tabs": ["tabs"],
-    			"essentials-sliding-overlay": ["sliding overlay"],
-    			"essentials-multiflow": ["flow layout"],
+            },
+            "CSharpProjects": {}
+        },
+        "AndroidProjects": {
+            "JavaProjects" : {},
+            "CSharpProjects": {}
+        }
+    },
+    "EssentialsProjects" : {
+        "iOSProjects": {
+            "ObjectiveCProjects" : {
+                "essentials-working-with-tabs": ["tabs"],
+                "essentials-sliding-overlay": ["sliding overlay"],
+                "essentials-multiflow": ["flow layout"],
                 "essentials-shinobi-slots": ["carousel"],
                 "essentials-carousel-path": ["carousel", "custom path"],
                 "essentials-bookshelf-accordion": ["accordion"],
                 "essentials-double-sliding-overlay": ["sliding overlay"]
             },
-		    "CSharpProjects": {}
-		},
-		"AndroidProjects": {
-		    "JavaProjects" : {},
-		    "CSharpProjects": {}
-		}
-	}
+            "CSharpProjects": {}
+        },
+        "AndroidProjects": {
+            "JavaProjects" : {},
+            "CSharpProjects": {}
+        }
+    }
 }
