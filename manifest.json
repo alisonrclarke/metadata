@@ -10,7 +10,6 @@
 				"charts-currency-charting": ["crosshair", "linked charts"]
 		    },
 		    "CSharpProjects": {
-		    	"Charts-MvvmCross": ["MvvmCross"],
 		    	"GithubDashboard-Xamarin": ["dashboard"]
 		    }
 		},
