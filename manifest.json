@@ -1,7 +1,7 @@
 {
-    "ChartsProjects": {
-        "iOSProjects": {
-            "ObjectiveCProjects" : {
+    "Charts": {
+        "iOS": {
+            "ObjectiveC" : {
                 "charts-legend-interactions" : ["legend", "pie chart"],
                 "charts-tornado-chart": ["tornado", "bar chart"],
                 "Shinobi-RangeSelector": ["annotation", "linked charts", "range"],
@@ -9,35 +9,35 @@
                 "charts-pie-chart-labels": ["pie chart", "labels"],
                 "charts-currency-charting": ["crosshair", "linked charts"]
             },
-            "CSharpProjects": {
+            "CSharp": {
                 "GithubDashboard-Xamarin": ["dashboard"]
             }
         },
-        "AndroidProjects": {
-            "JavaProjects" : {},
-            "CSharpProjects": {}
+        "Android": {
+            "Java" : {},
+            "CSharp": {}
         }
     },
-    "GridsProjects" : {
-        "iOSProjects": {
-            "ObjectiveCProjects" : {
+    "Grids" : {
+        "iOS": {
+            "ObjectiveC" : {
                 "grids-custom-checkbox": ["checkbox"],
                 "grids-weather-app": ["SGridsDataSourceHelper", "custom cells"],
                 "grids-todo-list": [],
                 "grids-financial-data-grid": ["custom cells"]
             },
-            "CSharpProjects": {
+            "CSharp": {
                 "GithubDashboard-Xamarin": ["dashboard"]
             }
         },
-        "AndroidProjects": {
-            "JavaProjects" : {},
-            "CSharpProjects": {}
+        "Android": {
+            "Java" : {},
+            "CSharp": {}
         }
     },
-    "EssentialsProjects" : {
-        "iOSProjects": {
-            "ObjectiveCProjects" : {
+    "Essentials" : {
+        "iOS": {
+            "ObjectiveC" : {
                 "essentials-working-with-tabs": ["tabs"],
                 "essentials-sliding-overlay": ["sliding overlay"],
                 "essentials-multiflow": ["flow layout"],
@@ -46,11 +46,11 @@
                 "essentials-bookshelf-accordion": ["accordion"],
                 "essentials-double-sliding-overlay": ["sliding overlay"]
             },
-            "CSharpProjects": {}
+            "CSharp": {}
         },
-        "AndroidProjects": {
-            "JavaProjects" : {},
-            "CSharpProjects": {}
+        "Android": {
+            "Java" : {},
+            "CSharp": {}
         }
     }
 }
