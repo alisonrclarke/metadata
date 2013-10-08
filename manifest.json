@@ -4,7 +4,7 @@
             "ObjectiveC" : {
                 "charts-legend-interactions" : ["legend", "pie chart"],
                 "charts-tornado-chart": ["tornado", "bar chart"],
-                "Shinobi-RangeSelector": ["annotation", "linked charts", "range"],
+                "Shinobi-RangeSelector": ["annotation", "linked charts", "range", "time series", "interaction"],
                 "charts-custom-crosshair": ["crosshair", "tooltip"],
                 "charts-pie-chart-labels": ["pie chart", "labels"],
                 "charts-currency-charting": ["crosshair", "linked charts"]
@@ -22,8 +22,8 @@
         "iOS": {
             "ObjectiveC" : {
                 "grids-custom-checkbox": ["checkbox"],
-                "grids-weather-app": ["SGridsDataSourceHelper", "custom cells"],
-                "grids-todo-list": [],
+                "grids-weather-app": ["datasource helper", "custom cells"],
+                "grids-todo-list": ["todo list", "sections"],
                 "grids-financial-data-grid": ["custom cells"]
             },
             "CSharp": {
