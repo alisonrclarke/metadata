@@ -2,15 +2,15 @@
     "Charts": {
         "iOS": {
             "ObjectiveC" : {
-                "charts-legend-interactions" : ["legend", "pie chart"],
-                "charts-tornado-chart": ["tornado", "bar chart"],
-                "Shinobi-RangeSelector": ["annotation", "linked charts", "range", "time series", "interaction"],
-                "charts-custom-crosshair": ["crosshair", "tooltip"],
-                "charts-pie-chart-labels": ["pie chart", "labels"],
-                "charts-currency-charting": ["crosshair", "linked charts"]
+                "charts-legend-interactions" : ["Objective C", "legend", "pie chart"],
+                "charts-tornado-chart": ["Objective C", "tornado", "bar chart"],
+                "Shinobi-RangeSelector": ["Objective C", "annotation", "linked charts", "range", "time series", "interaction"],
+                "charts-custom-crosshair": ["Objective C", "crosshair", "tooltip"],
+                "charts-pie-chart-labels": ["Objective C", "pie chart", "labels"],
+                "charts-currency-charting": ["Objective C", "crosshair", "linked charts"]
             },
             "CSharp": {
-                "GithubDashboard-Xamarin": ["dashboard"]
+                "GithubDashboard-Xamarin": ["C#", "dashboard"]
             }
         },
         "Android": {
@@ -21,13 +21,13 @@
     "Grids" : {
         "iOS": {
             "ObjectiveC" : {
-                "grids-custom-checkbox": ["checkbox"],
-                "grids-weather-app": ["datasource helper", "custom cells"],
-                "grids-todo-list": ["todo list", "sections"],
-                "grids-financial-data-grid": ["custom cells"]
+                "grids-custom-checkbox": ["Objective C", "checkbox"],
+                "grids-weather-app": ["Objective C", "datasource helper", "custom cells"],
+                "grids-todo-list": ["Objective C", "todo list", "sections"],
+                "grids-financial-data-grid": ["Objective C", "custom cells"]
             },
             "CSharp": {
-                "GithubDashboard-Xamarin": ["dashboard"]
+                "GithubDashboard-Xamarin": ["C#", "dashboard"]
             }
         },
         "Android": {
@@ -38,13 +38,13 @@
     "Essentials" : {
         "iOS": {
             "ObjectiveC" : {
-                "essentials-working-with-tabs": ["tabs"],
-                "essentials-sliding-overlay": ["sliding overlay"],
-                "essentials-multiflow": ["flow layout"],
-                "essentials-shinobi-slots": ["carousel"],
-                "essentials-carousel-path": ["carousel", "custom path"],
-                "essentials-bookshelf-accordion": ["accordion"],
-                "essentials-double-sliding-overlay": ["sliding overlay"]
+                "essentials-working-with-tabs": ["Objective C", "tabs"],
+                "essentials-sliding-overlay": ["Objective C", "sliding overlay"],
+                "essentials-multiflow": ["Objective C", "flow layout"],
+                "essentials-shinobi-slots": ["Objective C", "carousel"],
+                "essentials-carousel-path": ["Objective C", "carousel", "custom path"],
+                "essentials-bookshelf-accordion": ["Objective C", "accordion"],
+                "essentials-double-sliding-overlay": ["Objective C", "sliding overlay"]
             },
             "CSharp": {}
         },
