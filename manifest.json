@@ -2,12 +2,14 @@
     "Charts": {
         "iOS": {
             "ObjectiveC" : {
-                "charts-legend-interactions" : ["Objective C", "legend", "pie chart"],
+                "charts-legend-interactions" : ["Objective C", "legend", "pie chart", "interaction"],
                 "charts-tornado-chart": ["Objective C", "tornado", "bar chart"],
                 "Shinobi-RangeSelector": ["Objective C", "annotation", "linked charts", "range", "time series", "interaction"],
                 "charts-custom-crosshair": ["Objective C", "crosshair", "tooltip"],
                 "charts-pie-chart-labels": ["Objective C", "pie chart", "labels"],
-                "charts-currency-charting": ["Objective C", "crosshair", "linked charts"]
+                "charts-currency-charting": ["Objective C", "crosshair", "linked charts"],
+                "charts-movement-tracker": ["Objective C", "crosshair", "tooltip", "live data"],
+                "charts-accelerometer-visualisation": ["Objective C", "line series", "live data"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
@@ -42,7 +44,7 @@
                 "essentials-sliding-overlay": ["Objective C", "sliding overlay"],
                 "essentials-multiflow": ["Objective C", "flow layout"],
                 "essentials-shinobi-slots": ["Objective C", "carousel"],
-                "essentials-carousel-path": ["Objective C", "carousel", "custom path"],
+                "essentials-carousel-path": ["Objective C", "carousel", "custom path", "iOS7"],
                 "essentials-bookshelf-accordion": ["Objective C", "accordion"],
                 "essentials-double-sliding-overlay": ["Objective C", "sliding overlay"]
             },
