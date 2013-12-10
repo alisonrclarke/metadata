@@ -8,15 +8,17 @@
                 "charts-custom-crosshair": ["Objective C", "crosshair", "tooltip"],
                 "charts-pie-chart-labels": ["Objective C", "pie chart", "labels"],
                 "charts-currency-charting": ["Objective C", "crosshair", "linked charts"],
-                "charts-movement-tracker": ["Objective C", "crosshair", "tooltip", "live data"],
-                "charts-accelerometer-visualisation": ["Objective C", "line series", "live data"]
+                "charts-movement-tracker": ["Objective C", "crosshair", "tooltip", "streaming"],
+                "charts-accelerometer-visualisation": ["Objective C", "line series", "streaming"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
             }
         },
         "Android": {
-            "Java" : {},
+            "Java" : {
+                "charts-accelerometer-visualisation-android" : ["Java", "line series", "streaming"]
+            },
             "CSharp": {}
         }
     },
@@ -47,6 +49,19 @@
                 "essentials-carousel-path": ["Objective C", "carousel", "custom path", "iOS7"],
                 "essentials-bookshelf-accordion": ["Objective C", "accordion"],
                 "essentials-double-sliding-overlay": ["Objective C", "sliding overlay"]
+            },
+            "CSharp": {}
+        },
+        "Android": {
+            "Java" : {},
+            "CSharp": {}
+        }
+    },
+    "Gauges" : {
+        "iOS": {
+            "ObjectiveC" : {
+                "gauges-designer": ["Objective C", "styling"],
+                "gauges-thermometer": ["Objective C", "thermometer"]
             },
             "CSharp": {}
         },
