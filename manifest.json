@@ -17,7 +17,8 @@
         },
         "Android": {
             "Java" : {
-                "charts-accelerometer-visualisation-android" : ["Java", "line series", "streaming"]
+                "charts-accelerometer-visualisation-android" : ["Java", "line series", "streaming"],
+                "shinobicharts-with-android-studio" : ["Java", "Android Studio", "pie chart"]
             },
             "CSharp": {}
         }
