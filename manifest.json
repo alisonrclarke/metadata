@@ -29,7 +29,8 @@
                 "grids-custom-checkbox": ["Objective C", "checkbox"],
                 "grids-weather-app": ["Objective C", "datasource helper", "custom cells"],
                 "grids-todo-list": ["Objective C", "todo list", "sections"],
-                "grids-financial-data-grid": ["Objective C", "custom cells"]
+                "grids-financial-data-grid": ["Objective C", "custom cells"],
+                "grids-custom-picker-cell": ["Objective C", "custom cells", "UIPickerView"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
