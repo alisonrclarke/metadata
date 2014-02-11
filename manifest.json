@@ -50,7 +50,8 @@
                 "essentials-shinobi-slots": ["Objective C", "carousel"],
                 "essentials-carousel-path": ["Objective C", "carousel", "custom path", "iOS7"],
                 "essentials-bookshelf-accordion": ["Objective C", "accordion"],
-                "essentials-double-sliding-overlay": ["Objective C", "sliding overlay"]
+                "essentials-double-sliding-overlay": ["Objective C", "sliding overlay"],
+                "essentials-paged-carousel":["Objective C", "carousel", "page control"]
             },
             "CSharp": {}
         },
