@@ -64,7 +64,8 @@
         "iOS": {
             "ObjectiveC" : {
                 "gauges-designer": ["Objective C", "styling"],
-                "gauges-thermometer": ["Objective C", "thermometer"]
+                "gauges-thermometer": ["Objective C", "thermometer"],
+                "Gauges-SoundMeter": ["Objective C", "sound meter"]
             },
             "CSharp": {}
         },
