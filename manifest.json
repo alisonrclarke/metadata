@@ -30,7 +30,8 @@
                 "grids-weather-app": ["Objective C", "datasource helper", "custom cells"],
                 "grids-todo-list": ["Objective C", "todo list", "sections"],
                 "grids-financial-data-grid": ["Objective C", "custom cells"],
-                "grids-custom-picker-cell": ["Objective C", "custom cells", "UIPickerView"]
+                "grids-custom-picker-cell": ["Objective C", "custom cells", "UIPickerView"],
+                "grids-core-data-bibliotheca": ["Objective C", "Core Data", "UIPickerView"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
