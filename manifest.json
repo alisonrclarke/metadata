@@ -9,7 +9,8 @@
                 "charts-pie-chart-labels": ["Objective C", "pie chart", "labels"],
                 "charts-currency-charting": ["Objective C", "crosshair", "linked charts"],
                 "charts-movement-tracker": ["Objective C", "crosshair", "tooltip", "streaming"],
-                "charts-accelerometer-visualisation": ["Objective C", "line series", "streaming"]
+                "charts-accelerometer-visualisation": ["Objective C", "line series", "streaming"],
+                "charts-radar-getting-started": ["Objective C", "radar chart", "radial series"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
