@@ -11,7 +11,8 @@
                 "charts-movement-tracker": ["Objective C", "crosshair", "tooltip", "streaming"],
                 "charts-accelerometer-visualisation": ["Objective C", "line series", "streaming"],
                 "charts-radar-getting-started": ["Objective C", "radar chart", "radial series"],
-                "charts-datapoint-labels": ["Objective C", "bar chart", "datapoint labels"]
+                "charts-datapoint-labels": ["Objective C", "bar chart", "datapoint labels"],
+                "PopGoesShinobi": ["Objective C", "animation", "pop", "column chart", "pie chart"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
