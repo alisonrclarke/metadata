@@ -57,7 +57,8 @@
                 "essentials-bookshelf-accordion": ["Objective C", "accordion"],
                 "essentials-double-sliding-overlay": ["Objective C", "sliding overlay"],
                 "essentials-paged-carousel":["Objective C", "carousel", "page control"],
-                "essentials-customizing-pull-to-action":["Objective C", "pull to action"]
+                "essentials-customizing-pull-to-action":["Objective C", "pull to action"],
+                "essentials-drill-down-menu": ["Objective C", "sliding overlay", "accordion", "flow layout"]
             },
             "CSharp": {}
         },
