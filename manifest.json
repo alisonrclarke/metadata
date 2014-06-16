@@ -12,7 +12,8 @@
                 "charts-accelerometer-visualisation": ["Objective C", "line series", "streaming"],
                 "charts-radar-getting-started": ["Objective C", "radar chart", "radial series"],
                 "charts-datapoint-labels": ["Objective C", "bar chart", "datapoint labels"],
-                "PopGoesShinobi": ["Objective C", "animation", "pop", "column chart", "pie chart"]
+                "PopGoesShinobi": ["Objective C", "animation", "pop", "column chart", "pie chart"],
+                "iOS-SwiftCharts": ["Swift", "iOS8", "line chart"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
@@ -22,9 +23,12 @@
             "Java" : {
                 "charts-accelerometer-visualisation-android" : ["Java", "line series", "streaming"],
                 "shinobicharts-with-android-studio" : ["Java", "Android Studio", "pie chart"],
-                "charts-pie-chart-labels-android": ["Java", "pie chart", "labels"]
+                "charts-pie-chart-labels-android": ["Java", "pie chart", "labels"],
+                "charts-custom-tickmarks-and-baseline-android": ["Java", "line chart", "base line", "tick marks"]
             },
-            "CSharp": {}
+            "CSharp": {
+                "charts-custom-tickmarks-and-baseline-android-xamarin": ["C#", "line chart", "base line", "tick marks"]
+            }
         }
     },
     "Grids" : {
