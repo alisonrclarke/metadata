@@ -13,7 +13,9 @@
                 "charts-radar-getting-started": ["Objective C", "radar chart", "radial series"],
                 "charts-datapoint-labels": ["Objective C", "bar chart", "datapoint labels"],
                 "PopGoesShinobi": ["Objective C", "animation", "pop", "column chart", "pie chart"],
-                "iOS-SwiftCharts": ["Swift", "iOS8", "line chart"]
+                "iOS-SwiftCharts": ["Swift", "iOS8", "line chart"],
+                "charts-discontinuous-line-series": ["Objective C", "line chart", "discontinuous"],
+                "charts-individual-point-styling": ["Objective C", "column chart", "point styling"]
             },
             "CSharp": {
                 "GithubDashboard-Xamarin": ["C#", "dashboard"]
